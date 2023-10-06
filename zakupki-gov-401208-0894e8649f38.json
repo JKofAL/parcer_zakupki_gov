@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "zakupki-gov-401208",
+  "private_key_id": "0894e8649f38999ec206b36003cfcfdf6cd4c73a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2KqmFlVpkHfJL\ng/ZEcBArenapzW4asV3SVxBZY68gY6fY+792Jijp7nO+I866/QeqMNc2gVESX5D7\n/SQ2E5nP5dKfLgIosRi4Vtjz9qlhNhu7VX17fnFqPJBAe/smOXcKnrv9VsU1eLU8\nOtOMZK6B0Lo7IlaMwva8Np5rbqrD2MvR7sSv/vmdLcP0LBdxssVCJBqyFgP4HFhR\nmeEfVEpWuDRDkNCT2Wd422R3wBZ5CoH5OVIKj8jDqiNGYwWZpqvl+6tjj/yL0Mnl\nDtqUnhOgI9GL1UgsMHK54nNJ460CsDcRIM9ThwRL+WRNHadMyAKhyyt+NUgQv0uL\npzYhnJnXAgMBAAECggEAA7EDvTHA/wC3PWifyKnOsEykgboMCsD9CjtPw6uEoSfJ\nKcsYpd/GpM57Ydj0Pshaa6/7IO1Z0fLiYMDeatFzMt9fGuLJEhTN+ppSKNYe8OgW\nEeO1xqVgI1KZMmf+/p4i8FyLN+pPZDK51XitQjiP3WXp68Fn4XqvDIfne5lKO5cs\n0dnKXw9jZjeTxlQVGIkIr9BSFiWEJ4xp0kSEgSyf2AUOxYlv/gagKhCAfWcSmHfz\nydKtGzjiT3Gjxa0cqgRWTR2enDcP9zowJw+7K55Slj6g7rsrad/B8baqgC4WQ0TI\nU/vVaXYUnsZtIgAoOdhL7uSxqroUkKMxIdq+kiuulQKBgQD/y6x7h66lf+RT5YG1\nEk3xAzdEHbzASssIiL6JAmIP0LDxBSE6DDLWdzfiLyReH67Ar1Ky5ZbBTVfIynk0\nJcWqoJD4c0abWEOZjCR7nFSfLhiXhWAzeFwrBusxH/EkMhzrkUR/YgSmq3ptlxZ1\nzYHZPxl3r5UeQf24uomYMYbuywKBgQC2T+08Blveu8kR4OwvQc0XrY8ZgbdvcXOd\nztpRM2vLWLHKg19j6k0ZMx1YmdiJhWf/33WtGLO5fZeROKwOxO9/SzGLRaL9h6b3\noHwxwMtAe555Yre0xeT/9DdgB2pLTDEmMPqILGDc4Nvvor/cBx01zbTnSkSAdJnC\nP8DZGa7zpQKBgCdOzi+hdxYZpCW8VAVWTcHmo5yFEVdfZvnlwZneUuFpSXeQOT3p\nV/qbEWxhoC4SolEb4BJ7s4H69610Z9G6qDiDOiPj2wrOMn0rCwQvztUzSTYnmdPv\nAALgqk2/Qdg1Fzqf9S26C0rteP/UQvBRZ03SI4C/66Ndsrare692lOynAoGBAIc1\nJ6AIp0G8yxYzVXaGunABC8vC5CQGY9R5gHgQRrV8hf7HB4u2TI+P1QfMsUbsZYDi\nXQeO9ltuxWWyPgiGDYi+X3QGpSaZ4D5uCy1q6lJcW99yUwQCcB9TI25YkYBedWT5\nlhQ/tWaabQKAFQI9VHB+qteNwNfzocTqOz/HSHTxAoGAWKGho6/BJz4a6vG+KwlD\nTzOs0BRUiLY53O6ZNPsm/u+Mc3I9AfhfvxhVnAB3GWiTlKG5ynZhehqnDllJ0j/6\noHDnrDemKR2nfPZB9tjL0Pq+j6GwWQAHqXbMKYlDnix5/Q/ANPYXUkvHvmiisNxN\nS2ByPJne3i75DIl0o2JR6J4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "zakupki-account@zakupki-gov-401208.iam.gserviceaccount.com",
+  "client_id": "114260640266393939395",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zakupki-account%40zakupki-gov-401208.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
